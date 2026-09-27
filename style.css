@@ -1,0 +1,123 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.sec-1 {
+    width: 250px;
+    height: 178px;
+    padding-left: 18px;
+    font-family: sans-serif;
+    border-top: 17px solid #FB0C90;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 7px gray;
+}
+
+.size {
+    font-size: 13px;
+}
+
+.sec-1 .fa-solid {
+    padding: 15px;
+    margin-top: 28px;
+    border-radius: 35px;
+    background-color: #FB0C90;
+}
+.sec-2 {
+    width: 250px;
+    height: 178px;
+    padding-left: 18px;
+    font-family: sans-serif;
+    border-top: 17px solid #02BCD3;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 7px gray;
+}
+.sec-2 .fa-solid {
+    padding: 15px;
+    margin-top: 28px;
+    border-radius: 35px;
+    background-color: #02BCD3;
+}
+.sec-3 {
+    width: 250px;
+    height: 178px;
+    padding-left: 18px;
+    font-family: sans-serif;
+    border-top: 17px solid #2EC334;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 7px gray;
+}
+.sec-3 .fa-solid {
+    padding: 15px;
+    margin-top: 28px;
+    border-radius: 35px;
+    background-color: #2EC334;
+}
+.sec-4 {
+    width: 250px;
+    height: 178px;
+    padding-left: 18px;
+    font-family: sans-serif;
+    border-top: 17px solid #E1E800;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 7px gray;
+}
+.sec-4 .fa-solid {
+    padding: 15px;
+    margin-top: 28px;
+    border-radius: 35px;
+    background-color: #E1E800;
+}
+.sec-5 {
+    width: 250px;
+    height: 178px;
+    padding-left: 18px;
+    font-family: sans-serif;
+    border-top: 17px solid #BD71FC;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 7px gray;
+}
+.sec-5 .fa-solid {
+    padding: 15px;
+    margin-top: 28px;
+    border-radius: 35px;
+    background-color: #BD71FC;
+}
+.sec-6 {
+    width: 250px;
+    height: 178px;
+    padding-left: 18px;
+    font-family: sans-serif;
+    border-top: 17px solid #FD64BB;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 7px gray;
+}
+.sec-6 .fa-solid {
+    padding: 15px;
+    margin-top: 28px;
+    border-radius: 35px;
+    background-color: #FD64BB;
+}
+.sec-2{
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.sec-5{
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.inline-block{
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.main{
+   text-align: center;
+}
